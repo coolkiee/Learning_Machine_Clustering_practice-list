@@ -24,7 +24,6 @@ for dosya in dosyalar:
         # İçinde harf olduğu için NaN (boş) olan o satırları veri setinden tamamen siliyoruz
         df = df.dropna()
 
-
         X = df[0].values
         y = df[1].values
 
