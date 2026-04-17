@@ -1,0 +1,52 @@
+2026-04-17 08:49:18,812 - --- MNIST Veri Seti Bilgileri ---
+2026-04-17 08:49:18,812 - Veri seti indirildi. Toplam 70000 ornek ve her ornek icin 784 ozellik (piksel) bulunmaktadir.
+2026-04-17 08:49:18,813 - X (Data) matrisinin boyutu: (70000, 784)
+2026-04-17 08:49:18,813 - y (Target) dizisinin boyutu: (70000,)
+2026-04-17 08:51:26,932 - --- MNIST Veri Seti Bilgileri ---
+2026-04-17 08:51:26,932 - Veri seti indirildi. Toplam 70000 ornek ve her ornek icin 784 ozellik (piksel) bulunmaktadir.
+2026-04-17 08:51:26,932 - X (Data) matrisinin boyutu: (70000, 784)
+2026-04-17 08:51:26,934 - y (Target) dizisinin boyutu: (70000,)
+2026-04-17 08:53:25,832 - --- MNIST Veri Seti Bilgileri ---
+2026-04-17 08:53:25,832 - Veri seti indirildi. Toplam 70000 ornek ve her ornek icin 784 ozellik (piksel) bulunmaktadir.
+2026-04-17 08:53:25,832 - X (Data) matrisinin boyutu: (70000, 784)
+2026-04-17 08:53:25,832 - y (Target) dizisinin boyutu: (70000,)
+2026-04-17 08:54:47,055 - --- MNIST Veri Seti Bilgileri ---
+2026-04-17 08:54:47,055 - Veri seti indirildi. Toplam 70000 ornek ve her ornek icin 784 ozellik (piksel) bulunmaktadir.
+2026-04-17 08:54:47,055 - X (Data) matrisinin boyutu: (70000, 784)
+2026-04-17 08:54:47,056 - y (Target) dizisinin boyutu: (70000,)
+2026-04-17 08:58:37,190 - --- MNIST Veri Seti Bilgileri ---
+2026-04-17 08:58:37,190 - Veri seti indirildi. Toplam 70000 ornek ve her ornek icin 784 ozellik (piksel) bulunmaktadir.
+2026-04-17 08:58:37,190 - X (Data) matrisinin boyutu: (70000, 784)
+2026-04-17 08:58:37,190 - y (Target) dizisinin boyutu: (70000,)
+2026-04-17 09:06:51,489 - --- MNIST Veri Seti Bilgileri ---
+2026-04-17 09:06:51,489 - Veri seti indirildi. Toplam 70000 ornek ve her ornek icin 784 ozellik (piksel) bulunmaktadir.
+2026-04-17 09:06:51,489 - X (Data) matrisinin boyutu: (70000, 784)
+2026-04-17 09:06:51,489 - y (Target) dizisinin boyutu: (70000,)
+2026-04-17 09:06:57,778 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-17 09:06:57,779 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-17 09:06:57,784 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-17 09:09:02,214 - --- MNIST Veri Seti Bilgileri ---
+2026-04-17 09:09:02,214 - Veri seti indirildi. Toplam 70000 ornek ve her ornek icin 784 ozellik (piksel) bulunmaktadir.
+2026-04-17 09:09:02,214 - X (Data) matrisinin boyutu: (70000, 784)
+2026-04-17 09:09:02,214 - y (Target) dizisinin boyutu: (70000,)
+2026-04-17 09:09:08,370 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-17 09:09:08,370 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-17 09:09:08,376 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-17 09:11:33,761 - --- MNIST Veri Seti Bilgileri ---
+2026-04-17 09:11:33,761 - Veri seti indirildi. Toplam 70000 ornek ve her ornek icin 784 ozellik (piksel) bulunmaktadir.
+2026-04-17 09:11:33,761 - X (Data) matrisinin boyutu: (70000, 784)
+2026-04-17 09:11:33,761 - y (Target) dizisinin boyutu: (70000,)
+2026-04-17 09:11:37,384 - --- MNIST Dataset Info ---
+2026-04-17 09:11:37,384 - Dataset downloaded. Total samples: 70000, Features per sample: 784.
+2026-04-17 09:11:37,385 - X (Data) shape: (70000, 784)
+2026-04-17 09:11:37,385 - y (Target) shape: (70000,)
+2026-04-17 09:11:39,892 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-17 09:11:39,893 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-17 09:11:39,898 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-17 09:11:48,736 - --- MNIST Dataset Info ---
+2026-04-17 09:11:48,737 - Dataset downloaded. Total samples: 70000, Features per sample: 784.
+2026-04-17 09:11:48,737 - X (Data) shape: (70000, 784)
+2026-04-17 09:11:48,737 - y (Target) shape: (70000,)
+2026-04-17 09:11:54,761 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-17 09:11:54,762 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-17 09:11:54,767 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
